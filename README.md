@@ -1,0 +1,2 @@
+# instagram-bot-with-selenium
+ kullanıcı girişi yapan, takipçi listesini görüntüleyen, scrolling özelliği ile tüm takipçileri görüntüleyen, otomatik takip yapan, otomatik takibi bırakan ve takipçilerin dosyaya kaydolmasını sağlayan bir instagram botudur. HTML düzeni değişti ise xpthler güncellenerek çalıştırılabilir. instagramUserInfo.py dosyasına işlem yapılmak istenen hesabın username ve password bilgisi girilmelidir
